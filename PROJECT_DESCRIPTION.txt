@@ -1,0 +1,7 @@
+ARES — Autonomous Robotic Exploration System
+
+Build a student-led autonomous planetary rover simulation inspired by selected concepts from NASA's AEGIS science-targeting system and Perseverance's autonomous navigation. The system will combine computer vision, terrain understanding, traversability estimation, mapping, classical path planning, scientific target ranking, and an AI-assisted mission-planning layer.
+
+The goal is an integrated, measurable, safety-conscious robotics prototype—not a chatbot with a camera and not a reproduction of NASA flight software. Development will proceed incrementally: first a deterministic 2D simulation and baseline navigation, then visual perception and terrain cost maps, then target selection, and finally an agent/LLM layer whose proposed actions must pass independent deterministic validation.
+
+The AI mentor must teach concepts, challenge weak design choices, inspect the repository before making claims, maintain project documentation, and never mark work complete without implementation and test evidence.
